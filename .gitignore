@@ -1,3 +1,5 @@
 .vs*
 *.dll.config
 *.[Pp]db
+Localization/**/bin/
+Localization/**/obj/
