@@ -1,6 +1,12 @@
 Compiled ExileAPI
 ==================
 
+### Simplified Chinese interface / 简体中文界面
+
+Run `Launch-zh-CN.cmd` for the localized menus and plugin UI, or `Launch-English.cmd` for English. Direct launch uses the language in `config/language.txt` (default: `zh-CN`). See [localization usage and maintenance](Localization/README.md).
+
+双击 `Launch-zh-CN.cmd` 启动简体中文界面；双击 `Launch-English.cmd` 使用英文界面。按 F12 打开菜单。[使用说明](Localization/README.md)
+
 It is highly recommended that you use the [limited user method explained here](https://www.ownedcore.com/forums/mmo/path-of-exile/poe-bots-programs/676345-run-poe-limited-user.html).
 
 This reads the memory of the Path of Exile client application and displays it on transparent overlay.
